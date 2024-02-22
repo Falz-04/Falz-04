@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Falz-04
 - 👀 I’m interested in Engineering and Robotics
-- 🌱 I’m currently learning C and Rust
 - 📫 Email me at frbatavia@gmail.com
 
 <!---
