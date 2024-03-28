@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Falz-04
-- 👀 I’m interested in Engineering and Robotics
+- 👀 I’m interested in Robotics, Embedded Systems and Motorsports!!
 - 📫 Email me at frbatavia@gmail.com
 
 <!---
